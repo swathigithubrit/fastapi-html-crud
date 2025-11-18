@@ -16,23 +16,6 @@ Features
 
 ->  Modular project structure with routes and database management
 
-Project Structure
-
-FASTAPI_HTML/
-│
-├── app/
-│   ├── main.py
-│   ├── database.py
-│   ├── models.py
-│   ├── user_routes.py
-│   ├── templates/
-│   │     ├── register.html
-│   │     ├── users.html
-│   └── static/
-│         └── style.css
-│
-├── requirements.txt
-└── README.md
 
 Tech Stack
 
